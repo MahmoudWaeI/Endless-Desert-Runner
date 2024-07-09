@@ -8,8 +8,8 @@ Welcome to **Endless Desert Runner**, an endless running game where you navigate
 - [Gameplay](#gameplay)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
+![1](https://github.com/MahmoudWaeI/Endless-Desert-Runner/assets/92863950/0a789be5-8841-4b75-83bb-a91bac87bf3d)
 ## Description
 **Endless Desert Runner** is an endless runner game developed using Unity. Players control a character running through an expansive desert environment, jumping over obstacles and collecting coins to achieve high scores. The game offers smooth animations, responsive controls, and a visually appealing desert theme.
 
@@ -20,6 +20,7 @@ Welcome to **Endless Desert Runner**, an endless running game where you navigate
 - **Stunning Graphics**: Beautifully rendered desert landscapes and smooth animations.
 - **Intuitive Controls**: Easy-to-use controls for a seamless gaming experience.
 
+![2](https://github.com/MahmoudWaeI/Endless-Desert-Runner/assets/92863950/66035392-3c7d-410b-9675-d7644dc2516d)
 ## Installation
 To play **Endless Desert Runner**, follow these steps:
 1. Clone the repository:
@@ -35,6 +36,7 @@ To play **Endless Desert Runner**, follow these steps:
 - **Obstacles**: Jump over rocks, slide under arches, and avoid other desert hazards.
 - **Coins**: Collect coins to increase your score and unlock special items in the game.
 
+![losing](https://github.com/MahmoudWaeI/Endless-Desert-Runner/assets/92863950/b65433dc-975d-4884-997f-bca1de6a7597)
 ## Contributing
 We welcome contributions to **Endless Desert Runner**. If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request. Please follow our [contributing guidelines](CONTRIBUTING.md).
 
